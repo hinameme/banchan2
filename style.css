@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+}
+
+.item{
+    background-color: bisque;
+    color: blue;
+    margin: 10px;
+}
